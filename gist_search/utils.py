@@ -9,3 +9,11 @@ def get_gists(username):
     if not resp.ok:
         return None
     return resp.json()
+
+
+if __name__ == '__main__':
+    # https://gist.github.com/gvanrossum
+    gists = get_gists('gvanrossum')
+    first_three_gists = gists[:3]
+    for gist in gists:
+        print("{:<40} | {}".format(gist['id'], gist['description']))
