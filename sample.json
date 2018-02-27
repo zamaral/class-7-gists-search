@@ -1,0 +1,99 @@
+[
+  {
+    "url": "https://api.github.com/gists/698f0ff660968200f873a2f9d1c4113c",
+    "forks_url": "https://api.github.com/gists/698f0ff660968200f873a2f9d1c4113c/forks",
+    "commits_url": "https://api.github.com/gists/698f0ff660968200f873a2f9d1c4113c/commits",
+    "id": "698f0ff660968200f873a2f9d1c4113c",
+    "git_pull_url": "https://gist.github.com/698f0ff660968200f873a2f9d1c4113c.git",
+    "git_push_url": "https://gist.github.com/698f0ff660968200f873a2f9d1c4113c.git",
+    "html_url": "https://gist.github.com/698f0ff660968200f873a2f9d1c4113c",
+    "files": {
+      "parse_timedeltas.py": {
+        "filename": "parse_timedeltas.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/santiagobasulto/698f0ff660968200f873a2f9d1c4113c/raw/82710576c13eb09bcc0dc5d0535514ed1583ef70/parse_timedeltas.py",
+        "size": 616
+      },
+      "tests.py": {
+        "filename": "tests.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/santiagobasulto/698f0ff660968200f873a2f9d1c4113c/raw/ddd3d33f13cbbc633af8c50024dfeb63256d95c7/tests.py",
+        "size": 1345
+      }
+    },
+    "public": true,
+    "created_at": "2018-01-08T16:01:05Z",
+    "updated_at": "2018-02-26T14:29:22Z",
+    "description": "A simple script to parse human readable time deltas into Python datetime.timedeltas",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/698f0ff660968200f873a2f9d1c4113c/comments",
+    "owner": {
+      "login": "santiagobasulto",
+      "id": 872296,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/872296?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santiagobasulto",
+      "html_url": "https://github.com/santiagobasulto",
+      "followers_url": "https://api.github.com/users/santiagobasulto/followers",
+      "following_url": "https://api.github.com/users/santiagobasulto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santiagobasulto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santiagobasulto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santiagobasulto/subscriptions",
+      "organizations_url": "https://api.github.com/users/santiagobasulto/orgs",
+      "repos_url": "https://api.github.com/users/santiagobasulto/repos",
+      "events_url": "https://api.github.com/users/santiagobasulto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santiagobasulto/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b9ac9697d4741fa7e477fece23f2d7a3",
+    "forks_url": "https://api.github.com/gists/b9ac9697d4741fa7e477fece23f2d7a3/forks",
+    "commits_url": "https://api.github.com/gists/b9ac9697d4741fa7e477fece23f2d7a3/commits",
+    "id": "b9ac9697d4741fa7e477fece23f2d7a3",
+    "git_pull_url": "https://gist.github.com/b9ac9697d4741fa7e477fece23f2d7a3.git",
+    "git_push_url": "https://gist.github.com/b9ac9697d4741fa7e477fece23f2d7a3.git",
+    "html_url": "https://gist.github.com/b9ac9697d4741fa7e477fece23f2d7a3",
+    "files": {
+      "timezone_options.py": {
+        "filename": "timezone_options.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/santiagobasulto/b9ac9697d4741fa7e477fece23f2d7a3/raw/6397efebf678967dd166aa6951e0ec7f09281530/timezone_options.py",
+        "size": 1458
+      }
+    },
+    "public": true,
+    "created_at": "2017-10-06T16:23:03Z",
+    "updated_at": "2018-02-26T14:30:42Z",
+    "description": "Generate time options for different timezones",
+    "comments": 1,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/b9ac9697d4741fa7e477fece23f2d7a3/comments",
+    "owner": {
+      "login": "santiagobasulto",
+      "id": 872296,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/872296?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/santiagobasulto",
+      "html_url": "https://github.com/santiagobasulto",
+      "followers_url": "https://api.github.com/users/santiagobasulto/followers",
+      "following_url": "https://api.github.com/users/santiagobasulto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/santiagobasulto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/santiagobasulto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/santiagobasulto/subscriptions",
+      "organizations_url": "https://api.github.com/users/santiagobasulto/orgs",
+      "repos_url": "https://api.github.com/users/santiagobasulto/repos",
+      "events_url": "https://api.github.com/users/santiagobasulto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/santiagobasulto/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  }
+]
